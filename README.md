@@ -1,7 +1,7 @@
 # astrocrash
 A program to search and document the results of collisions between spaceships in cellular automata.
 ## Setup
-Step 0: You will need a bash command line, as well as git, python3, and python3-pip (the latter is not necessary on Windows).
+Step 0: You will need a bash command line, as well as g++, git, python3, and python3-pip (the latter is not necessary on Windows).
 If you are on Windows, you will need to install either WSL or Cygwin (I recommend the former).
 
 Step 1: Clone this repository using git. 
