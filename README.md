@@ -55,5 +55,7 @@ This is why I used Travelling Ts (b3s23-a5) as one of the test cases for this, t
 Since this program allows for the creation of xWSS-based syntheses, it can be used to help create guns that fire spaceships without using gliders. I initially began work on this program due to the aforementioned challenge of developing INT technology, but a few days later, I came up with an idea to make a gliderless gun firing non-standard spaceships, and I realised I could use this program to help. I had a basic prototype of the program ready to go, so a few days of work later, I completed the first example of such a gun: https://conwaylife.com/forums/viewtopic.php?f=2&t=5922&start=200#p218487
 ## Credits
 astrocrash.py and searchfile.py written by PK22.
+
 shipcolls.cpp written by Cyclotrons in 2021. Source: https://conwaylife.com/forums/viewtopic.php?f=9&t=2032&p=135476#p135476
+
 lifelib module by Adam P. Goucher. Source: https://conwaylife.com/forums/viewtopic.php?f=9&t=2032&p=135476#p135476
